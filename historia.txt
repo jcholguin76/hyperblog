@@ -1,1 +1,3 @@
 esta es las pruebas funcionales de git
+mi nombres Juan Holguin
+tengo 46 años y naci en medellin
