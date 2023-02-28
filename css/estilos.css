@@ -5,8 +5,7 @@ body{
     font-family: "Arial";
     font-size: 20px;
     margin: 0;
-    padding: 0;
-    
+    padding: 0;   
 }
 #cabecera{
     background: #37488b;
@@ -38,4 +37,10 @@ body{
 #post{
     background: white;
     padding: 1em;
+}
+#footer{
+    background: #949191;
+    color: withe;
+    text-align: center;
+    padding: 0.5em;
 }
